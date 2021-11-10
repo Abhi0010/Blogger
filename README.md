@@ -1,10 +1,13 @@
 # Blogger
 React application for viewing, adding and deleting your personalized blogs
 
-## To run JSON server:
+## Install node modules:
+### `npm install`
+
+## Run JSON server:
 ### `npx json-server --watch data/db.json --port 8000`
 
-## To install React Router:
+## Install React Router:
 ### `npm install react-router-dom@5`
 
 # Getting Started with Create React App
